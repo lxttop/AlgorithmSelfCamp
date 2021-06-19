@@ -29,7 +29,7 @@ public class 字符串中的第一个唯一字符_387_FirstUniqueCharacterInAStr
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int firstUniqChar(String s) {
-
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -76,7 +76,7 @@ public class 外观数列_38_CountAndSay{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public String countAndSay(int n) {
-
+        return "";
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -48,16 +48,16 @@ package leetcode.editor.cn;
 // 👍 927 👎 0
 
 
-public class 实现 strStr()_28_ImplementStrstr{
+public class 实现strStr_28_ImplementStrstr{
     public static void main(String[] args) {
-        Solution solution = new 实现 strStr()_28_ImplementStrstr().new Solution();
+        Solution solution = new 实现strStr_28_ImplementStrstr().new Solution();
          
     }
     
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int strStr(String haystack, String needle) {
-
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

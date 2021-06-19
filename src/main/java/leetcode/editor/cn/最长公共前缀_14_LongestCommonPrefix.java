@@ -42,7 +42,7 @@ public class 最长公共前缀_14_LongestCommonPrefix{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-
+        return "";
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

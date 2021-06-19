@@ -55,7 +55,7 @@ public class 整数反转_7_ReverseInteger{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int reverse(int x) {
-
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

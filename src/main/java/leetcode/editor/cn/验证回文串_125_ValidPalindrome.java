@@ -28,7 +28,7 @@ public class 验证回文串_125_ValidPalindrome{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isPalindrome(String s) {
-
+        return true;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

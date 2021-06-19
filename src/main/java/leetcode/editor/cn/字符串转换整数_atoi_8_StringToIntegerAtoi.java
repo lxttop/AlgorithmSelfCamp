@@ -113,16 +113,16 @@ package leetcode.editor.cn;
 // 👍 1130 👎 0
 
 
-public class 字符串转换整数 (atoi)_8_StringToIntegerAtoi{
+public class 字符串转换整数_atoi_8_StringToIntegerAtoi{
     public static void main(String[] args) {
-        Solution solution = new 字符串转换整数 (atoi)_8_StringToIntegerAtoi().new Solution();
+        Solution solution = new 字符串转换整数_atoi_8_StringToIntegerAtoi().new Solution();
          
     }
     
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int myAtoi(String s) {
-
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

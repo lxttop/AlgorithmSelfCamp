@@ -31,7 +31,7 @@ public class 有效的字母异位词_242_ValidAnagram{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isAnagram(String s, String t) {
-
+        return true;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
